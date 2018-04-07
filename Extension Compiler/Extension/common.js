@@ -29,3 +29,6 @@ a.isEdge = false;
  */
 a.debugMode = true;
 //@pragma-end-if
+
+a.isFirefox = true;
+a.debugMode = false;
