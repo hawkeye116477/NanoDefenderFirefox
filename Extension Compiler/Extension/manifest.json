@@ -56,7 +56,7 @@
     "webRequest",
     "webRequestBlocking"
   ],
-  "version": "13.51",
+  "version": "13.55",
   "applications": {
     "gecko": {
       "strict_min_version": "57.0"
