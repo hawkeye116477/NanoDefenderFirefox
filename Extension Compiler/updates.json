@@ -1,0 +1,14 @@
+{
+ "addons": {
+  "NanoDefender@krystian3w": {
+   "updates": [
+    {
+     "version": "13.60",
+     "applications": { "gecko": { "strict_min_version": "57.0" } },
+     "update_info_url": "https://github.com/krystian3w/NanoDefenderFirefox/tree/13.60",
+     "update_link": "https://github.com/krystian3w/NanoDefenderFirefox/releases/download/13.60/nano_defender-13.60-an.fx.xpi"
+    }
+   ]
+  }
+ }
+} 
