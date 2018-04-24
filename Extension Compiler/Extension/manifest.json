@@ -56,11 +56,12 @@
     "webRequest",
     "webRequestBlocking"
   ],
-
   "version": "13.60",
   "applications": {
     "gecko": {
-      "strict_min_version": "57.0"
+      "id":"NanoDefender@krystian3w",
+      "strict_min_version": "57.0",
+      "update_url": "https://raw.githubusercontent.com/krystian3w/NanoDefenderFirefox/master/Extension%20Compiler/updates.json"
     }
   }
 }
